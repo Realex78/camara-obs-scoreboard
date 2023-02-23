@@ -1,0 +1,33 @@
+body {
+	background-color: #00FF00;
+	margin: 8px;
+}
+
+img {
+	height: 200px;
+}
+
+table {
+	display: inline;
+}
+
+tbody {
+	height: 200px;
+	background-color: white;
+}
+
+tr {
+	vertical-align: middle;
+}
+
+#title {
+	text-align: center;
+}
+
+div {
+	display: flex;
+}
+
+* {
+	font-size: 24px;
+}
